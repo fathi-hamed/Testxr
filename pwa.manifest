@@ -1,0 +1,16 @@
+{
+    "name": "core application",
+    "short_name": "core",
+    "lang": "en-US",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "icons": [
+        {
+        "src": "images/favicon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+        }
+    ]
+}
